@@ -1,0 +1,10 @@
+{
+  "name": "ai-company",
+  "version": "1.0.0",
+  "description": "Autonomous development organization that delivers production-ready AWS applications from requirements to deployment with minimal human intervention",
+  "author": {
+    "name": "Miz"
+  },
+  "license": "MIT",
+  "keywords": ["ai", "development", "aws", "deployment", "architecture", "autonomous"]
+}

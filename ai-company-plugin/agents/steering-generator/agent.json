@@ -1,0 +1,6 @@
+{
+  "name": "steering-generator",
+  "description": "Generate steering files from approved implementation as persistent project memory",
+  "tools": ["Read", "Write", "Glob", "Grep", "Bash"],
+  "model": "sonnet"
+}

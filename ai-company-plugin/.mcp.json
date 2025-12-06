@@ -1,0 +1,36 @@
+{
+  "servers": {
+    "context7": {
+      "transport": "http",
+      "url": "https://mcp.context7.com/mcp",
+      "headers": {
+        "CONTEXT7_API_KEY": "${CONTEXT7_API_KEY}"
+      },
+      "description": "Latest library and framework documentation"
+    },
+    "aws-mcp": {
+      "transport": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-proxy-for-aws@latest",
+        "https://aws-mcp.us-east-1.api.aws/mcp",
+        "--metadata",
+        "AWS_REGION=us-east-1"
+      ],
+      "description": "AWS documentation, API references, pricing information, and architectural guidance"
+    },
+    "serena": {
+      "transport": "stdio",
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/oraios/serena",
+        "serena",
+        "start-mcp-server",
+        "--context",
+        "ide-assistant"
+      ],
+      "description": "Codebase-wide semantic search, symbol-level navigation, code analysis and editing capabilities"
+    }
+  }
+}

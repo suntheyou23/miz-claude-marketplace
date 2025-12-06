@@ -1,0 +1,6 @@
+{
+  "name": "task-planner",
+  "description": "Expert task planner specializing in breaking down technical designs into manageable implementation tasks with requirement traceability and parallel execution planning.",
+  "tools": ["Read", "Write"],
+  "model": "sonnet"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "miz-claude-marketplace",
+  "owner": {
+    "name": "Miz"
+  },
+  "description": "Miz's Claude Code plugin marketplace",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "ai-company",
+      "source": "./ai-company-plugin",
+      "description": "Autonomous development organization that transforms user requirements into production-ready AWS applications with enterprise-quality code, complete with architecture design, cost estimates, TDD implementation, and deployment guides",
+      "version": "1.0.0",
+      "author": {
+        "name": "Miz"
+      },
+      "license": "MIT",
+      "keywords": ["ai", "development", "aws", "deployment", "architecture", "autonomous"],
+      "category": "Development Tools"
+    }
+  ]
+}

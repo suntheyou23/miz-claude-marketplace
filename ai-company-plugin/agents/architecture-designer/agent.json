@@ -1,0 +1,6 @@
+{
+  "name": "architecture-designer",
+  "description": "Expert system architect specializing in translating requirements into technical design. Creates comprehensive architecture documents including component design, data models, and technology stack selection.",
+  "tools": ["Read", "Write", "Edit", "Grep", "Glob", "WebSearch", "WebFetch"],
+  "model": "sonnet"
+}

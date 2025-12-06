@@ -1,0 +1,6 @@
+{
+  "name": "deliverable-approver",
+  "description": "Prepare deliverable summary and deployment guide for stakeholder approval",
+  "tools": ["Read", "Write", "Bash", "Grep", "Glob"],
+  "model": "sonnet"
+}

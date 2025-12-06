@@ -1,0 +1,6 @@
+{
+  "name": "validate-implementation",
+  "description": "Validate implementation against requirements, design, and tasks, and fix all identified issues",
+  "tools": ["Read", "Write", "Edit", "Bash", "Glob", "Grep", "WebSearch", "WebFetch"],
+  "model": "sonnet"
+}

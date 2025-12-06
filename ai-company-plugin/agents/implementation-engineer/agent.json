@@ -1,0 +1,6 @@
+{
+  "name": "implementation-engineer",
+  "description": "Execute implementation tasks using Test-Driven Development methodology based on approved specifications",
+  "tools": ["Read", "Write", "Edit", "Bash", "Glob", "Grep", "WebSearch", "WebFetch"],
+  "model": "sonnet"
+}

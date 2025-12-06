@@ -1,0 +1,6 @@
+{
+  "name": "validate-gap",
+  "description": "Analyze implementation gap between requirements and existing codebase to inform design strategy",
+  "tools": ["Read", "Grep", "Glob", "WebSearch", "WebFetch"],
+  "model": "sonnet"
+}

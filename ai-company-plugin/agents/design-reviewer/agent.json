@@ -1,0 +1,6 @@
+{
+  "name": "design-reviewer",
+  "description": "Expert design reviewer specializing in architecture validation, technology stack assessment, and design-level security, performance, and cost analysis.",
+  "tools": ["Read", "Edit", "WebSearch", "WebFetch"],
+  "model": "sonnet"
+}

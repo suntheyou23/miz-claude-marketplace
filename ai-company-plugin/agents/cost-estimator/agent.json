@@ -1,0 +1,6 @@
+{
+  "name": "cost-estimator",
+  "description": "Expert cost analyst specializing in AWS service pricing estimation. Analyzes design documents to extract resource requirements and generates detailed cost estimates using AWS Pricing data.",
+  "tools": ["Read", "Write"],
+  "model": "sonnet"
+}
