@@ -110,27 +110,22 @@ The plugin and its MCP servers are automatically enabled.
 Check that the plugin is loaded:
 
 ```
-Do you have the ai-company-workflow skill available?
-```
-
-Or verify via:
-```
 /help
 ```
 
-Look for AI Company agents and skills in the output.
+Look for the `/ai-company` command in the output.
 
 ## Usage
 
 ### Starting a New Project
 
-Invoke the AI Company workflow skill to begin the autonomous development process:
+Use the `/ai-company` slash command to begin the autonomous development process:
 
 ```
-Use the ai-company-workflow skill to build [your requirement description]
+/ai-company [your requirement description]
 ```
 
-The skill will guide you through:
+The command will guide you through:
 1. Requirements gathering and approval
 2. Design and cost estimation
 3. Implementation and validation
